@@ -1,0 +1,123 @@
+
+nav {
+	background-color: #e6e6e6;
+	height: 50px;
+	width: 100%;
+}
+
+.title {
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	display: inline-block;
+	margin-left: 40px;
+	margin-bottom: 10px;
+}
+
+.toplist {
+	list-style: none;
+	float: right;
+	padding-right: 60px;
+	text-decoration: none;
+}
+
+nav li {
+	display: inline-block;
+	padding: 3px 6px;
+	font-weight: bold;	
+}
+
+.post {
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.account {
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.search {
+	padding-top: 60px;
+	padding-left: 90px;
+	width: 400px;
+}
+
+.size {
+	width: 300px;
+	display: inline;
+}
+
+.searchbutton {
+	display: inline;
+}
+
+.pagebar {
+	padding-top: 40px;
+	padding-left: 90px;
+}
+
+.prev {
+	border: 1px #b8b8b8 solid;
+	display: inline;
+	border-radius: 4px 0px 0px 4px;
+	padding: 6px 12px 6px 12px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.count {
+	border: 1px #b8b8b8 solid;
+	display: inline;
+	padding: 6px 16px 6px 16px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.next {
+	border: 1px #b8b8b8 solid;
+	border-radius: 0px 4px 4px 0px;
+	display: inline;
+	padding: 6px 12px 6px 12px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.prevclick {
+	text-decoration: none;
+	color: black;
+}
+
+.nextclick {
+	text-decoration: none;
+	color: black;
+}
+
+.space {
+	padding-top: 60px;
+}
+
+.star{
+	color: #A0A0A0;
+	padding: 5px 6px 5px 90px;
+}
+
+.date {
+	color: #A0A0A0;
+	padding: 5px 6px 5px 6px;
+}
+
+.position {
+	padding: 5px 6px 5px 6px;
+}
+
+.jobs {
+	text-decoration: none;
+	color: blue;
+}
+
+.location {
+	color: #A0A0A0;
+	padding: 5px 6px 5px 6px;
+}
+
+.fa.fa-star:hover {
+	color: #ffff00;
+}
+
